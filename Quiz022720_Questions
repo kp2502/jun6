@@ -1,0 +1,100 @@
+#1) Which of the following is true about Formal Review or Inspection
+
+i. Led by Trained Moderator (not the author)
+ii. No Pre Meeting Preparations
+iii. Formal Follow up the process
+iv. Main Objective is to find defects
+
+a) ii is true and i,iii,iv are false
+b) i,iii,iv are true and ii is false
+c) i,iii,iv are false and ii is true
+d) iii is true and i,ii,iv are false
+
+#2) The Phases of the formal review process is mentioned below arrange them in the correct order.
+
+i. Planning
+ii. Review Meeting
+iii. Rework
+iv. Individual Preparations
+v. Kick Off
+vi. Follow Up
+
+a) i,ii,iii,iv,v,vi
+b) vi,i,ii,iii,iv,v
+c) i,v,iv,ii,iii,vi
+d) i,ii,iii,v,iv,vi
+
+#3) The Test Cases Derived from use cases
+
+a) Are most useful in uncovering defects in the process flows during real-world use of the system
+b) Are most useful in uncovering defects in the process flows during the testing use of the system
+c) Are most useful in covering the defects in the process flows during real-world use of the system
+d) Are most useful in covering the defects at the Integration Level
+
+#4) Exhaustive Testing is
+
+a) Is impractical but possible
+b) Is practically possible
+c) Is impractical and impossible
+d) Is always possible
+
+#5) A Project risk includes which of the following
+
+a) Organizational Factors
+b) Poor Software characteristics
+c) Error-Prone software delivered.
+d) Software that does not perform its intended functions
+
+
+#6) Which of the following is the task of a Tester?
+
+i. Interaction with the Test Tool Vendor to identify the best ways to leverage the test tools on the project.
+ii. Prepare and acquire Test Data
+iii. Implement Tests on all test levels, execute and log the tests.
+iv. Create the Test Specifications
+
+a) i, ii, iii is true and iv is false
+b) ii, iii, iv is true and i is false
+c) i is true and ii, iii, iv are false
+d) iii and iv is correct and i and ii are incorrect
+
+#7) The Planning phase of a formal review includes the following
+
+a) Explaining the objectives
+b) Selecting the personnel, allocating roles.
+c) Follow up
+d) Individual Meeting preparations
+
+#8) Who are the persons involved in a Formal Review
+
+i. Manager
+ii. Moderator
+iii. Scribe / Recorder
+iv. Assistant Manager
+
+a) i,ii,iii,iv are true
+b) i,ii,iii are true and iv is false.
+c) ii,iii,iv are true and i is false.
+d) i, iv are true and ii, iii are false
+
+#9) Which of the following are Key Characteristics of Walk Through
+
+a) Scenario, Dry Run, Peer Group
+b) Pre Meeting Preparations
+c) Formal Follow Up Process
+d) Includes Metrics
+
+#10) What can static analysis NOT find?
+a) the use of a variable before it has been defined
+b) unreachable (“dead”) code
+c) memory leaks
+d) array bound violations
+
+#11) Static analysis is best described as:
+
+a) The analysis of batch programs
+b) The reviewing of test plans
+c) The analysis of program code
+d) The use of Black-box testing
+
+
